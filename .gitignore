@@ -12,3 +12,4 @@ build
 .secret
 .infura
 .etherscan
+.account-private-key
